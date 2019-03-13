@@ -1,0 +1,14 @@
+搭建环境
+
+python3 + vscode
+
+安装库：pip 
+
+想要打包程序
+1、安装 win32 
+命令：.\pip install pywin32
+
+2、安装 pyinstaller
+ 下载PyInstaller-3.2.1文件并解压
+ 切换到PyInstaller-3.2.1目录
+ 命令：python setup.py install
