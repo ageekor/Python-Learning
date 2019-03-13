@@ -12,3 +12,8 @@ python3 + vscode
  下载PyInstaller-3.2.1文件并解压
  切换到PyInstaller-3.2.1目录
  命令：python setup.py install
+ 
+3、打包命令
+在scripts文件下
+ 
+ .\pyinstaller -F time.py
